@@ -24,9 +24,9 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 4. Write `pip install -r requirements.txt`.
 
 This will have your enviornment set up.
-```
+
 Note: in the near future I plan to save the bert model, turn the notebooks into scripts, and  build a streamlit app that can be run via a docker container. This will allow users to use the streamlit app without resorting to make an anaconda enviornment.
-```
+
 
 
 # Usage
